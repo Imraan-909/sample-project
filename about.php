@@ -33,7 +33,7 @@
 			<a href="index.php"><img id="pic_modify" src="img/logo.png" alt=""></a>			 
 		</div>
 	</div>
-	
+	<hr>
 	<div class="row">
 		<div class="col-md-4">
 			<h2 id="about_h2">OUR STORY</h2>
@@ -42,7 +42,16 @@
 			<p id="about_p">In the new normal, we are fascinated about discovering new facts. So, we planned to bring facts to your fingertip. A news portal with facts around the world and available in various languages will certainly fetch our mission.</p>
 		</div>
 	</div>
-	
+	<hr>
+	<div class="row">
+		<div class="col-md-4">
+			<h2 id="about_h2">OUR TEAM OF THE CODER</h2>
+		</div>
+		<div class="col-md-8">
+			<p id="about_p">In the new normal, we are fascinated about discovering new facts. So, we planned to bring facts to your fingertip. A news portal with facts around the world and available in various languages will certainly fetch our mission.</p>
+		</div>
+	</div>
+    <hr>
 	<div class="row">
 		<div class="col-md-4">
 			<h2 id="about_h2">OUR MISSION</h2>
